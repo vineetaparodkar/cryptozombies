@@ -22,7 +22,7 @@ async function main() {
   // console.log("Greeter deployed to:", greeter.address);
 
    // We get the contract to deploy
-   const CryptoZombies = await hre.ethers.getContractFactory("ZombieHelper");
+   const CryptoZombies = await hre.ethers.getContractFactory("ZombieAttack");
    const cryptozombies = await CryptoZombies.deploy();
  
    await cryptozombies.deployed();
