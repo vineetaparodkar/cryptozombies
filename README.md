@@ -55,7 +55,7 @@ This project contains cryptozombies challenges from `https://cryptozombies.io/en
 
     4. Run the _triggerCooldown function on myZombie. This way the zombie can only attack once per day. 
 
-4. NFT Collectible 
+4. Lesson5: NFT Collectible 
 
 - Implement a zombie owner,balanceof,transfer functionality to update mapping
 
